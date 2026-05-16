@@ -1,0 +1,9 @@
+Preferred DNS server:
+192.168.56.10
+
+command:
+nslookup -type=TXT nexacorp.local
+
+nslookup -type=TXT _dmarc.nexacorp.local
+
+nslookup -type=MX nexacorp.local

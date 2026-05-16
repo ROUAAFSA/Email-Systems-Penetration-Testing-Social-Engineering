@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /admin/
+Disallow: /backup/
+Disallow: /internal/
+Disallow: /staging/
+Disallow: /reset/
+Disallow: /uploads/
+
+# Temporary exclusions during migration
+Disallow: /legacy-portal/
+
+Sitemap: http://nexacorp.local/sitemap.xml

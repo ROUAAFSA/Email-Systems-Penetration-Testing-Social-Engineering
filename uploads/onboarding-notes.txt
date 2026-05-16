@@ -1,0 +1,7 @@
+New Employee Setup Checklist
+
+- Create AD account
+- Assign mailbox
+- Add VPN access
+- Send password reset link
+- Enroll in MFA (Q4 target)

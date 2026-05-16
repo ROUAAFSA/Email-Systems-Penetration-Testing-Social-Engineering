@@ -6,13 +6,7 @@
 │   └── readme.txt
 ├── uploads/
 │   └── onboarding-notes.txt
+├── robots.txt
+├── sitemap.xml
 └── index.html
 
-
-sudo mkdir -p /var/www/html/internal
-sudo mkdir -p /var/www/html/staging
-sudo mkdir -p /var/www/html/backup
-
-/internal/ → 403
-/staging/ → old login page
-/backup/ → directory listing with harmless files

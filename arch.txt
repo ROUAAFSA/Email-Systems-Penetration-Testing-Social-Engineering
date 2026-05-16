@@ -1,0 +1,9 @@
+/var/www/html/
+├── backup/
+│   ├── employees.csv
+│   ├── vpn-instructions.txt
+│   ├── old-config.txt
+│   └── readme.txt
+├── uploads/
+│   └── onboarding-notes.txt
+└── index.html

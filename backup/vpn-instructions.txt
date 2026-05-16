@@ -1,0 +1,13 @@
+NexaCorp Remote Access
+
+VPN Portal:
+https://vpn.nexacorp.local
+
+If you forgot your password:
+http://reset.nexacorp.local
+
+For assistance contact:
+helpdesk@nexacorp.local
+
+NOTE:
+Users must change temporary passwords after first login.

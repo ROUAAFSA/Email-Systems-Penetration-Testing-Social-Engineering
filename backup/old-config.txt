@@ -1,0 +1,10 @@
+[mail]
+smtp_server=mail.nexacorp.local
+smtp_port=25
+
+[internal]
+jira=http://jira.nexacorp.local
+wiki=http://wiki.nexacorp.local
+
+[notes]
+DMARC rollout delayed pending IT approval.
